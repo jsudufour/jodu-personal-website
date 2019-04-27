@@ -39,8 +39,16 @@ function Bio() {
               }}
             />
             <p>
-              Hi, I'm <strong>{author}</strong>, a front-end developer and data
-              scientist currently based in London, UK.
+              i'm <strong>{author}</strong>, a front-end developer and data
+              scientist currently based in london, uk. find me on{" "}
+              <a href="https://github.com/jsudufour" target="blank">
+                github
+              </a>{" "}
+              or check out my{" "}
+              <a href="https://www.linkedin.com/in/jsudufour/" target="blank">
+                linkedin
+              </a>{" "}
+              profile.
             </p>
           </div>
         )

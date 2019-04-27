@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: ``,
-    author: `Jo Du`,
+    title: `hiya`,
+    author: `josiane`,
     description: `Jo's personal website`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://jodu.dev/`,
   },
   plugins: [
     {

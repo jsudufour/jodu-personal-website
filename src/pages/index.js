@@ -20,9 +20,6 @@ class BlogIndex extends React.Component {
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
         <Bio />
-        <h4>{"Website under construction"}</h4>
-        <h5>{"In the meantime, fancy a game of tic-tac-toe?"}</h5>
-        <Game />
       </Layout>
     )
   }
